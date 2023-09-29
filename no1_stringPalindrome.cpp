@@ -18,9 +18,9 @@ int main() {
     }
     
     if(flag == 0)
-        cout << true;
+        cout << "Yes, it is palindrome";
         else
-            cout << false;
+            cout << "No, it is not palindrome";
 
     return 0;
 }
